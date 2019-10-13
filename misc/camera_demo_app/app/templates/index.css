@@ -1,0 +1,16 @@
+.camera_position{
+    width: 80px;
+}
+
+.center-block{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#output_image,#input_image,#compare_image{
+ width: 256px;
+ height: 256px;
+}
+
+.top-buffer { margin-top:20px; }

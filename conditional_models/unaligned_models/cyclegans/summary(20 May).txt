@@ -1,0 +1,1 @@
+Had to make major changes in model cycle_gan_model.py to make it able to condition on the extra channels provided. However, there seems to be some logical error as results do not reflect conditioning yet. Looking in to it.

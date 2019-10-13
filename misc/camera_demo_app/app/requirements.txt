@@ -1,0 +1,6 @@
+Werkzeug==0.14.1
+flask
+requests
+bs4
+numpy
+pandas
